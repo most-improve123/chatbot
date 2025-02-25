@@ -1,0 +1,165 @@
+
+[
+  {
+    "question": "¿Cuál es el calendario académico para este semestre?",
+    "answer": "El calendario académico se puede encontrar en [https://udb.edu.sv/calendario-academico](https://udb.edu.sv/calendario-academico)."
+  },
+
+  {
+    "question": "¿Dónde puedo encontrar mi horario de clases?",
+    "answer": "Tu horario de clases está disponible en el portal del estudiante: [https://udb.edu.sv/portal-estudiante](https://udb.edu.sv/portal-estudiante)."
+  },
+
+  {
+    "question": "¿Cuándo son los períodos de inscripción para cursos?",
+    "answer": "Los períodos de inscripción para cursos se anuncian en el portal del estudiante y en el calendario académico: [https://udb.edu.sv/calendario-academico](https://udb.edu.sv/calendario-academico)."
+  },
+
+  {
+    "question": "¿Dónde está la biblioteca y cuáles son sus horarios?",
+    "answer": "La biblioteca está ubicada en el edificio A, planta baja, y sus horarios son de lunes a viernes de 8:00 a 18:00 horas. Más información en: [https://udb.edu.sv/biblioteca](https://udb.edu.sv/biblioteca)."
+  },
+
+  {
+    "question": "¿Cómo puedo contactar al departamento de servicios estudiantiles?",
+    "answer": "Puedes contactar al departamento de servicios estudiantiles a través del correo electrónico: servicios.estudiantiles@udb.edu.sv o llamando al número: +503 2251 8200."
+  },
+
+  {
+    "question": "¿Hay algún evento importante en el campus esta semana?",
+    "answer": "Puedes consultar el calendario de eventos en el sitio web del campus: [https://udb.edu.sv/eventos](https://udb.edu.sv/eventos) o en las redes sociales de la universidad."
+  },
+
+  {
+    "question": "¿Dónde puedo obtener ayuda si estoy experimentando estrés o problemas emocionales?",
+    "answer": "Puedes obtener ayuda en el centro de bienestar estudiantil, que ofrece servicios de asesoramiento y apoyo emocional: [https://udb.edu.sv/bienestar-estudiantil](https://udb.edu.sv/bienestar-estudiantil)."
+  },
+
+  {
+    "question": "¿Cuáles son los recursos disponibles para estudiantes con discapacidades?",
+    "answer": "La universidad ofrece una variedad de recursos para estudiantes con discapacidades, incluidos servicios de tutoría y adaptaciones académicas. Puedes contactar a la oficina de servicios para estudiantes con discapacidades para más información: [https://udb.edu.sv/discapacidades](https://udb.edu.sv/discapacidades)."
+  },
+
+  {
+    "question": "¿Qué servicios de asesoramiento o tutoría están disponibles para mejorar mi rendimiento académico?",
+    "answer": "La universidad ofrece servicios de asesoramiento académico y tutoría a través del centro de aprendizaje. Puedes programar una cita a través del portal del estudiante: [https://udb.edu.sv/asesoria-academica](https://udb.edu.sv/asesoria-academica)."
+  },
+
+  {
+    "question": "¿Cómo puedo encontrar pasantías o prácticas profesionales relevantes para mi carrera?",
+    "answer": "Puedes buscar oportunidades de pasantías y prácticas profesionales a través del centro de carrera de la universidad, que ofrece una plataforma en línea con listas de puestos disponibles: [https://udb.edu.sv/pasantias](https://udb.edu.sv/pasantias)."
+  },
+
+  {
+    "question": "¿Qué recursos ofrece la universidad para ayudarme a escribir mi currículum vitae?",
+    "answer": "La universidad ofrece talleres y sesiones individuales en el centro de carrera para ayudarte a escribir y mejorar tu currículum vitae: [https://udb.edu.sv/centro-carrera](https://udb.edu.sv/centro-carrera)."
+  },
+
+  {
+    "question": "¿Hay talleres disponibles para prepararme para entrevistas de trabajo?",
+    "answer": "Sí, el centro de carrera ofrece talleres regulares y simulacros de entrevistas para ayudarte a prepararte para entrevistas de trabajo: [https://udb.edu.sv/talleres-entrevistas](https://udb.edu.sv/talleres-entrevistas)."
+  },
+
+  {
+    "question": "¿Qué clubes o actividades extracurriculares están disponibles en el campus?",
+    "answer": "Hay una variedad de clubes y actividades extracurriculares disponibles en el campus, que van desde deportes hasta artes y voluntariado. Puedes encontrar una lista completa en el sitio web del campus: [https://udb.edu.sv/clubes](https://udb.edu.sv/clubes)."
+  },
+
+  {
+    "question": "¿Hay alguna actividad interesante planeada para el fin de semana?",
+    "answer": "Puedes consultar el calendario de eventos en el sitio web del campus o en las redes sociales de la universidad para ver las actividades planeadas para el fin de semana: [https://udb.edu.sv/eventos-fin-semana](https://udb.edu.sv/eventos-fin-semana)."
+  },
+
+  {
+    "question": "¿Cuáles son las opciones de alimentación disponibles en el campus?",
+    "answer": "El campus ofrece varias opciones de alimentación, incluidas cafeterías, comedores y puestos de comida rápida. Puedes encontrar más detalles sobre horarios y ubicaciones en el sitio web del campus: [https://udb.edu.sv/alimentacion](https://udb.edu.sv/alimentacion)."
+  },
+  
+    {
+      "question": "¿Cuál es el calendario académico para este semestre?",
+      "answer": "El calendario académico se puede encontrar en [https://udb.edu.sv/calendario-academico](https://udb.edu.sv/calendario-academico)."
+    },
+    {
+      "question": "¿Dónde puedo encontrar mi horario de clases?",
+      "answer": "Tu horario de clases está disponible en el portal del estudiante: [https://udb.edu.sv/portal-estudiante](https://udb.edu.sv/portal-estudiante)."
+    },
+    {
+      "question": "¿Cuándo son los períodos de inscripción para cursos?",
+      "answer": "Los períodos de inscripción para cursos se anuncian en el portal del estudiante y en el calendario académico: [https://udb.edu.sv/calendario-academico](https://udb.edu.sv/calendario-academico)."
+    },
+    {
+      "question": "¿Dónde está la biblioteca y cuáles son sus horarios?",
+      "answer": "La biblioteca está ubicada en el edificio A, planta baja, y sus horarios son de lunes a viernes de 8:00 a 18:00 horas. Más información en: [https://udb.edu.sv/biblioteca](https://udb.edu.sv/biblioteca)."
+    },
+    {
+      "question": "¿Cómo puedo contactar al departamento de servicios estudiantiles?",
+      "answer": "Puedes contactar al departamento de servicios estudiantiles a través del correo electrónico: servicios.estudiantiles@udb.edu.sv o llamando al número: +503 2251 8200."
+    },
+    {
+      "question": "¿Hay algún evento importante en el campus esta semana?",
+      "answer": "Puedes consultar el calendario de eventos en el sitio web del campus: [https://udb.edu.sv/eventos](https://udb.edu.sv/eventos) o en las redes sociales de la universidad."
+    },
+    {
+      "question": "¿Dónde puedo obtener ayuda si estoy experimentando estrés o problemas emocionales?",
+      "answer": "Puedes obtener ayuda en el centro de bienestar estudiantil, que ofrece servicios de asesoramiento y apoyo emocional: [https://udb.edu.sv/bienestar-estudiantil](https://udb.edu.sv/bienestar-estudiantil)."
+    },
+    {
+      "question": "¿Cuáles son los recursos disponibles para estudiantes con discapacidades?",
+      "answer": "La universidad ofrece una variedad de recursos para estudiantes con discapacidades, incluidos servicios de tutoría y adaptaciones académicas. Puedes contactar a la oficina de servicios para estudiantes con discapacidades para más información: [https://udb.edu.sv/discapacidades](https://udb.edu.sv/discapacidades)."
+    },
+    {
+      "question": "¿Qué servicios de asesoramiento o tutoría están disponibles para mejorar mi rendimiento académico?",
+      "answer": "La universidad ofrece servicios de asesoramiento académico y tutoría a través del centro de aprendizaje. Puedes programar una cita a través del portal del estudiante: [https://udb.edu.sv/asesoria-academica](https://udb.edu.sv/asesoria-academica)."
+    },
+    {
+      "question": "¿Cómo puedo encontrar pasantías o prácticas profesionales relevantes para mi carrera?",
+      "answer": "Puedes buscar oportunidades de pasantías y prácticas profesionales a través del centro de carrera de la universidad, que ofrece una plataforma en línea con listas de puestos disponibles: [https://udb.edu.sv/pasantias](https://udb.edu.sv/pasantias)."
+    },
+    {
+      "question": "¿Qué recursos ofrece la universidad para ayudarme a escribir mi currículum vitae?",
+      "answer": "La universidad ofrece talleres y sesiones individuales en el centro de carrera para ayudarte a escribir y mejorar tu currículum vitae: [https://udb.edu.sv/centro-carrera](https://udb.edu.sv/centro-carrera)."
+    },
+    {
+      "question": "¿Hay talleres disponibles para prepararme para entrevistas de trabajo?",
+      "answer": "Sí, el centro de carrera ofrece talleres regulares y simulacros de entrevistas para ayudarte a prepararte para entrevistas de trabajo: [https://udb.edu.sv/talleres-entrevistas](https://udb.edu.sv/talleres-entrevistas)."
+    },
+    {
+      "question": "¿Qué clubes o actividades extracurriculares están disponibles en el campus?",
+      "answer": "Hay una variedad de clubes y actividades extracurriculares disponibles en el campus, que van desde deportes hasta artes y voluntariado. Puedes encontrar una lista completa en el sitio web del campus: [https://udb.edu.sv/clubes](https://udb.edu.sv/clubes)."
+    },
+    {
+      "question": "¿Hay alguna actividad interesante planeada para el fin de semana?",
+      "answer": "Puedes consultar el calendario de eventos en el sitio web del campus o en las redes sociales de la universidad para ver las actividades planeadas para el fin de semana: [https://udb.edu.sv/eventos-fin-semana](https://udb.edu.sv/eventos-fin-semana)."
+    },
+    {
+      "question": "¿Cuáles son las opciones de alimentación disponibles en el campus?",
+      "answer": "El campus ofrece varias opciones de alimentación, incluidas cafeterías, comedores y puestos de comida rápida. Puedes encontrar más detalles sobre horarios y ubicaciones en el sitio web del campus: [https://udb.edu.sv/alimentacion](https://udb.edu.sv/alimentacion)."
+    },
+    {
+      "question": "¿Qué debo hacer si necesito soporte técnico con el portal del estudiante?",
+      "answer": "Para soporte técnico con el portal del estudiante, puedes contactar al departamento de TI a través del correo electrónico: soporte.ti@udb.edu.sv o llamando al número: +503 2251 8201."
+    },
+    {
+      "question": "¿Cómo puedo actualizar mi información personal en el portal del estudiante?",
+      "answer": "Puedes actualizar tu información personal accediendo a tu perfil en el portal del estudiante y editando los campos correspondientes: [https://udb.edu.sv/portal-estudiante](https://udb.edu.sv/portal-estudiante)."
+    },
+    {
+      "question": "¿Dónde puedo encontrar los formularios para solicitar becas?",
+      "answer": "Los formularios para solicitar becas están disponibles en la sección de becas del portal del estudiante: [https://udb.edu.sv/becas](https://udb.edu.sv/becas)."
+    },
+    {
+      "question": "¿Qué debo hacer si tengo problemas con mi correo electrónico institucional?",
+      "answer": "Si tienes problemas con tu correo electrónico institucional, contacta al departamento de TI a través del correo electrónico: soporte.ti@udb.edu.sv o llamando al número: +503 2251 8201."
+    },
+    {
+      "question": "¿Cuáles son las políticas de la universidad respecto al plagio?",
+      "answer": "Las políticas de la universidad respecto al plagio están detalladas en el reglamento académico, disponible en el portal del estudiante: [https://udb.edu.sv/reglamento-academico](https://udb.edu.sv/reglamento-academico)."
+    },
+    {
+      "question": "¿Qué debo hacer si necesito ayuda con mi investigación académica?",
+      "answer": "Puedes obtener ayuda con tu investigación académica en el centro de apoyo a la investigación, que ofrece recursos y asesoramiento: [https://udb.edu.sv/centro-investigacion](https://udb.edu.sv/centro-investigacion)."
+    }
+   
+
+  ]
+  
